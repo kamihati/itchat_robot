@@ -1,3 +1,4 @@
+# 本脚本主要用于演示各种消息处理
 # coding=utf8
 
 import itchat
