@@ -13,7 +13,7 @@ def tuling(info):
     :param info:
     :return:
     """
-    appkey = '993f2b2bd823405a9d45cbb3d302aa7a'
+    appkey = 'xxxxx'
     url_v1 = 'http://www.tuling123.com/openapi/api?key=%s&info=%s' % (appkey, info)
     req = requests.get(url_v1)
     content = req.text

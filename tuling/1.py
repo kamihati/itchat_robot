@@ -4,7 +4,7 @@ from urllib import request
 from urllib import parse
 import json
 
-KEY = '993f2b2bd823405a9d45cbb3d302aa7a'
+KEY = 'xxxx'
 url_v2 = 'http://openapi.tuling123.com/openapi/api/v2'
 url_v1 = "http://www.tuling123.com/openapi/api"
 req_info = '讲个笑话'.encode("utf8")
